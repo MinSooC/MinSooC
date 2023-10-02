@@ -3,13 +3,21 @@ AI 엔지니어 희망
 
 # Technology
 ### 언어
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 ### 프레임워크
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=FFmpeg&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white"> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/ultralytics-0099E5?style=for-the-badge&logo=ultralytics&logoColor=white">  
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=FFmpeg&logoColor=white)
+![flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
+![folium](https://img.shields.io/badge/folium-77B829?style=flat&logo=folium&logoColor=white)
+![openai](https://img.shields.io/badge/openai-412991?style=flat&logo=openai&logoColor=white)
+![opencv](https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white)
+![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
+![ultralytics](https://img.shields.io/badge/ultralytics-0099E5?style=flat&logo=ultralytics&logoColor=white)
 
 ### 데이터베이스
-<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">  
+![sqlite](https://img.shields.io/badge/sqlite-003857?style=flat&logo=sqlite&logoColor=white)
 
 # Projects
 |Project|Techs|Date|Group|Link|
