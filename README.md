@@ -22,7 +22,7 @@ AI 엔지니어 희망
 # Projects
 |Project|Techs|Date|Group|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|무명가수-작곡가 매칭 프로젝트|Pytorch, librosa, pydub, flask, faiss, ffmpeg, scikit-learn, sqlite3|2023.09.04~09.27|Team|[Click](https://github.com/isthisteamisthis)|
+|무명가수-작곡가 매칭 프로젝트|Pytorch, librosa, pydub, flask, faiss, ffmpeg, scikit-learn, sqlite3|2023.09.06~09.26|Team|[Click](https://github.com/isthisteamisthis)|
 |불법 현수막 탐지 프로젝트|Yolov8, PaddleOCR, OpenAI, Folium, Opencv, NaverClovaAPI|2023.08.01~08.29|Team|[Click](https://github.com/MTVS-AI/META_Yolo_OCR_ChatGPT_PJT)|
 |인공지능 비서 거북이|Selenium, Pytorch, Mediapipe, CNN(ResNet) Speech Recognition, Opencv, Playsound, gTTS|2023.07.17~07.21|Team|[Click](https://github.com/MinSooC/TurtleNeck)|
 |의자왕 : 의자 분류기|Pytorch, CNN(VGG16, VGG19, ResNet)|2023.07.04~07.06|Solo|[Click](https://github.com/MinSooC/KingOfChairs)|
