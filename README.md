@@ -1,5 +1,5 @@
 # About ME
-AI 엔지니어 희망
+AI 엔지니어를 희망합니다.
 
 # Technology
 ### 언어
