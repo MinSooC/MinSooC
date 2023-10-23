@@ -24,7 +24,7 @@
 # Projects
 |Project|Techs|Date|Group|Link|
 |:---:|:---:|:---:|:---:|:---:|
-|무명가수-작곡가 매칭 프로젝트|Pytorch, librosa, pydub, flask, faiss, ffmpeg, scikit-learn, sqlite3|2023.09.06~09.26|Team|[Click](https://github.com/isthisteamisthis) [Youtube](https://www.youtube.com/watch?v=QluGKnN534Y)|
+|무명가수-작곡가 매칭 프로젝트|Pytorch, librosa, pydub, flask, faiss, ffmpeg, scikit-learn, sqlite3|2023.09.06~09.26|Team|[Click](https://github.com/isthisteamisthis/lalalia_ai) [Youtube](https://www.youtube.com/watch?v=QluGKnN534Y)|
 |불법 현수막 탐지 프로젝트|Yolov8, PaddleOCR, OpenAI, Folium, Opencv, NaverClovaAPI|2023.08.01~08.29|Team|[Click](https://github.com/MTVS-AI/META_Yolo_OCR_ChatGPT_PJT) [Youtube](https://www.youtube.com/watch?v=UXZTP0jx1WQ&list=PLml1GH62sPF-tPUg7xatqjC3xG2bXmjgv)|
 |인공지능 비서 거북이|Selenium, Pytorch, Mediapipe, CNN(ResNet) Speech Recognition, Opencv, Playsound, gTTS|2023.07.17~07.21|Team|[Click](https://github.com/MinSooC/TurtleNeck)|
 |의자왕 : 의자 분류기|Pytorch, CNN(VGG16, VGG19, ResNet)|2023.07.04~07.06|Solo|[Click](https://github.com/MinSooC/KingOfChairs)|
