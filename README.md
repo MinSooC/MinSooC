@@ -24,30 +24,28 @@ E-mail : minsoo0616@gmail.com
 - Date : 2023.10.04 ~ 진행 중
 - Role : Mixamo Animation Assets 기반 동작 분류, 음성 변조, image 기반 3d Object 생성, spring-flask 서버 통신
 - Tech : mediapipe, opencv, pytorch, librosa, pydub, flask, faiss, ffmpeg, magic123, scikit-learn
-- Repo : Comming Soon
+- Link : [Comming Soon!](https://github.com/MinSooC)
 <br>
 
 ### LALALIA : 무명가수-작곡가 매칭 프로젝트
 - Date : 2023.09.06 ~ 2023.09.26
 - Role : spring-flask 서버통신, 코드 통합, AI 데모곡 제작, 신규 목소리 모델 훈련
 - Tech : pytorch, librosa, pydub, flask, faiss, ffmpeg, scikit-learn
-- Repo : [Github](https://github.com/isthisteamisthis/lalalia_ai)
-- 시연 : [Youtube](https://www.youtube.com/watch?v=QluGKnN534Y)
+- Link : [Github](https://github.com/isthisteamisthis/lalalia_ai) / [Youtube](https://www.youtube.com/watch?v=QluGKnN534Y)
 <br>
 
 ### 불법 현수막 탐지 프로젝트
 - Date : 2023.08.01~08.29
 - Role : OCR 모듈 개발, 지도 시각화
 - Tech : EasyOCR, PaddleOCR, Folium, Opencv, NaverClovaAPI
-- Repo : [Github](https://github.com/MTVS-AI/META_Yolo_OCR_ChatGPT_PJT)
-- 시연 : [Youtube](https://www.youtube.com/watch?v=UXZTP0jx1WQ&list=PLml1GH62sPF-tPUg7xatqjC3xG2bXmjgv)
+- Link : [Github](https://github.com/MTVS-AI/META_Yolo_OCR_ChatGPT_PJT) / [Youtube](https://www.youtube.com/watch?v=UXZTP0jx1WQ&list=PLml1GH62sPF-tPUg7xatqjC3xG2bXmjgv)
 <br>
 
 ### 인공지능 비서 거북이
 - Date : 2023.07.17~07.21
 - Role : 음성인식, 노래 추천, 영상 추천 등 부가 기능 개발, 코드 통합
 - Tech : selenium, speech recognition, playsound, gTTS
-- Repo : [Github](https://github.com/MinSooC/TurtleNeck)
+- Link : [Github](https://github.com/MinSooC/TurtleNeck)
 <br>
 
 ### 기타
