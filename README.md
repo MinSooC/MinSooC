@@ -31,14 +31,14 @@ E-mail : minsoo0616@gmail.com
 - Date : 2023.09.06 ~ 2023.09.26
 - Role : spring-flask 서버통신, 코드 통합, AI 데모곡 제작, 신규 목소리 모델 훈련
 - Tech : pytorch, librosa, pydub, flask, faiss, ffmpeg, scikit-learn
-- Link : [Github](https://github.com/isthisteamisthis/lalalia_ai) / [Youtube](https://www.youtube.com/watch?v=QluGKnN534Y)
+- Link : [Github](https://github.com/MinSooC/lalalia_ai) / [Youtube](https://www.youtube.com/watch?v=QluGKnN534Y)
 <br>
 
 ### 불법 현수막 탐지 프로젝트
 - Date : 2023.08.01~08.29
 - Role : OCR 모듈 개발, 지도 시각화
 - Tech : EasyOCR, PaddleOCR, Folium, Opencv, NaverClovaAPI
-- Link : [Github](https://github.com/MTVS-AI/META_Yolo_OCR_ChatGPT_PJT) / [Youtube](https://www.youtube.com/watch?v=UXZTP0jx1WQ&list=PLml1GH62sPF-tPUg7xatqjC3xG2bXmjgv)
+- Link : [Github](https://github.com/MinSooC/META_Yolo_OCR_ChatGPT_PJT) / [Youtube](https://www.youtube.com/watch?v=UXZTP0jx1WQ&list=PLml1GH62sPF-tPUg7xatqjC3xG2bXmjgv)
 <br>
 
 ### 인공지능 비서 거북이
