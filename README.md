@@ -1,24 +1,22 @@
+![header](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20to%20my%20Github!&height=200)
+
 # About ME
-- Python을 바탕으로한 머신러닝 & 딥러닝 경험이 있으며 인공지능 개발자를 희망합니다.
+- Python을 바탕으로한 머신러닝 & 딥러닝 경험이 있으며 MLOps를 희망합니다.
 - 팀 프로젝트와 융합 프로젝트를 통해 협업의 효과와 그 중요성을 알아가고 있습니다. 
 - 문제를 인식 & 정의하고 그에 대한 해결방법을 찾아나가고자 합니다.
+
+### Info
+E-mail : minsoo0616@gmail.com
 
 # Technology
 ### 언어
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 ### 프레임워크
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=FFmpeg&logoColor=white)
 ![flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
-![folium](https://img.shields.io/badge/folium-77B829?style=flat&logo=folium&logoColor=white)
-![mediapipe](https://img.shields.io/badge/mediapipe-4285F4?style=flat&logo=mediapipe&logoColor=white)
-![openai](https://img.shields.io/badge/openai-412991?style=flat&logo=openai&logoColor=white)
-![opencv](https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white)
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![selenium](https://img.shields.io/badge/selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
-![speech recognition](https://img.shields.io/badge/speech_recognition-03C75A?style=flat&logo=speech_recognition&logoColor=white)
-![ultralytics](https://img.shields.io/badge/ultralytics-0099E5?style=flat&logo=ultralytics&logoColor=white)
+![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### 데이터베이스
 ![sqlite](https://img.shields.io/badge/sqlite-003857?style=flat&logo=sqlite&logoColor=white)
