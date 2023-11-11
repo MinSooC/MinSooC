@@ -18,30 +18,31 @@ E-mail : minsoo0616@gmail.com
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### 데이터베이스
-![sqlite](https://img.shields.io/badge/sqlite-003857?style=flat&logo=sqlite&logoColor=white)
-
 # Projects
 ### LIFE
-|Techs|Date|Group|Link|
-|:---:|:---:|:---:|:---:|
-|Mediapipe, Opencv, Pytorch, librosa, pydub, flask, faiss, ffmpeg, scikit-learn|2023.10.04~진행중|Team|[Click](https://github.com/MTVS-Post-Production/post-ai)|
-
+- 기간 : 2023.10.04 ~ 진행 중
+- 사용기술 : mediapipe, opencv, pytorch, librosa, pydub, flask, faiss, ffmpeg, scikit-learn
+- 링크 : [Github](https://github.com/MTVS-Post-Production/post-ai)
 
 ### LALALIA : 무명가수-작곡가 매칭 프로젝트
-|Techs|Date|Group|Link|
-|:---:|:---:|:---:|:---:|
-|Pytorch, librosa, pydub, flask, faiss, ffmpeg, scikit-learn, sqlite3|2023.09.06~09.26|Team|[Click](https://github.com/isthisteamisthis/lalalia_ai) [Youtube](https://www.youtube.com/watch?v=QluGKnN534Y)|
+- 기간 : 2023.09.06 ~ 2023.09.26
+- 맡은 역할 : spring-flask 서버통신, 코드 통합, AI 데모곡 제작, 신규 목소리 모델 훈련
+- 사용 기술 : pytorch, librosa, pydub, flask, faiss, ffmpeg, scikit-learn
+- repo 링크 : [Github](https://github.com/isthisteamisthis/lalalia_ai)
+- 시연 영상 : [Youtube](https://www.youtube.com/watch?v=QluGKnN534Y)
 
 ### 불법 현수막 탐지 프로젝트
-|Techs|Date|Group|Link|
-|:---:|:---:|:---:|:---:|
-|Yolov8, PaddleOCR, OpenAI, Folium, Opencv, NaverClovaAPI|2023.08.01~08.29|Team|[Click](https://github.com/MTVS-AI/META_Yolo_OCR_ChatGPT_PJT) [Youtube](https://www.youtube.com/watch?v=UXZTP0jx1WQ&list=PLml1GH62sPF-tPUg7xatqjC3xG2bXmjgv)|
+- 기간 : 2023.08.01~08.29
+- 맡은 역할 : OCR 모듈 개발, 지도 시각화
+- 사용 기술 : EasyOCR, PaddleOCR, Folium, Opencv, NaverClovaAPI
+- repo 링크 : [Github](https://github.com/MTVS-AI/META_Yolo_OCR_ChatGPT_PJT)
+- 시연 영상 : [Youtube](https://www.youtube.com/watch?v=UXZTP0jx1WQ&list=PLml1GH62sPF-tPUg7xatqjC3xG2bXmjgv)
 
 ### 인공지능 비서 거북이
-|Techs|Date|Group|Link|
-|:---:|:---:|:---:|:---:|
-|Selenium, Pytorch, Mediapipe, CNN(ResNet) Speech Recognition, Opencv, Playsound, gTTS|2023.07.17~07.21|Team|[Click](https://github.com/MinSooC/TurtleNeck)|
+- 기간 : 2023.07.17~07.21
+- 맡은 역할 : 음성인식, 노래 추천, 영상 추천 등 부가 기능 개발, 코드 통합
+- 사용 기술 : selenium, speech recognition, playsound, gTTS
+- repo 링크 : [Github](https://github.com/MinSooC/TurtleNeck)
 
 ### 기타
 |Project|Techs|Date|Group|Link|
