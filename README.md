@@ -15,7 +15,6 @@ E-mail : minsoo0616@gmail.com
 ### 프레임워크
 ![flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white)
-![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 
