@@ -53,3 +53,4 @@ E-mail : minsoo0616@gmail.com
 |내 친구 라임이|Flask, LangChain, Scikit-learn, konlpy|2023.08.29~09.01|Team|[Youtube](https://www.youtube.com/watch?v=z-jwf2ad-uE)|
 |의자왕 : 의자 분류기|Pytorch, CNN(VGG16, VGG19, ResNet)|2023.07.04~07.06|Solo|[Click](https://github.com/MinSooC/KingOfChairs)|
 |우리 아이 Golden Care|pandas, selenium, NaverAPI|2023.06.15~06.21|Team|[Click](https://github.com/MinSooC/GoldenCare)|
+<br>
