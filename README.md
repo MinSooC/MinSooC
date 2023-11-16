@@ -32,7 +32,7 @@ E-mail : minsoo0616@gmail.com
 - Tech : pytorch, librosa, pydub, flask, faiss, ffmpeg, scikit-learn
 - Link : [Github](https://github.com/MinSooC/lalalia_ai) / [Youtube](https://www.youtube.com/watch?v=QluGKnN534Y)
 <br>
-
+ 
 ### 불법 현수막 탐지 프로젝트
 - Date : 2023.08.01~08.29
 - Role : OCR 모듈 개발, 지도 시각화
