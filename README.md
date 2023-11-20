@@ -7,7 +7,7 @@
  
 ### Info
 E-mail : minsoo0616@gmail.com
- 
+
 # Technology
 ### 언어
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
