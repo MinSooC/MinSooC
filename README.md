@@ -23,7 +23,7 @@ E-mail : minsoo0616@gmail.com
 - Date : 2023.10.04 ~ 진행 중
 - Role : Mixamo Animation Assets 기반 동작 분류, 음성 변조, image 기반 3d Object 생성, spring-flask 서버 통신
 - Tech : pytorch, videoMAE, flask, moviepy, transformers, scikit-learn, pydub, ffmpeg, faiss
-- Link : [Comming Soon!](https://github.com/MinSooC)
+- Link : [Github](https://github.com/MTVS-Post-Production/post-ai)
 <br>
 
 ### LALALIA : 무명가수-작곡가 매칭 프로젝트
